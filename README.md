@@ -18,7 +18,7 @@ npm run start:off    # :3001, in another
 npm run count
 ```
 
-## Result (next 16.4.3, react 19.2.8; 16.5.0-canary.27 embeds the same stream)
+## Result (next 16.4.3, react 19.2.8; 16.5.0-canary.27 gives the same counts)
 
 ```
 http://localhost:3000/
